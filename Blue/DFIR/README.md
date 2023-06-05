@@ -1,4 +1,4 @@
-# Digital Forensics And Incident Respond
+# Digital Forensics And Incident Response
 
 1. It's not a question of if incident, but when incident and how quickly can you detect and respond.
 2. Prevention is a goal, detection and response is the reality.
